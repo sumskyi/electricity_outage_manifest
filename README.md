@@ -13,6 +13,9 @@ As russia destroys our infrastructure and communications in order to be able to 
 2. We sleep when there is no electricity or Internet.
 3. If 40 hours cannot be reached (yet), to fill the missing time, we work on weekends and national holidays.
 
+## How to help others
+ * Enable guest passwordless access on your Wi-Fi router (perhaps with speed limitation)
+
 Edition: 0.1 Draft version
 
 P.S. - this manifesto will be destroyed after the Victory of Ukraine.
