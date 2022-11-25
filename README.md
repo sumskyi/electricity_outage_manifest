@@ -12,7 +12,7 @@ As russia destroys our infrastructure and communications in order to be able to 
 1. Let's imagine that we work a full working week (40 hours)
 	* we work when we have the opportunity (internet and electricity) and try to reach 40 hours a week.
 2. We sleep when there is no electricity or Internet.
-3. If 40 hours cannot be reached (yet), to fill the missing time, we work on weekends and national holidays.
+3. If 40 hours cannot be reached (yet), to fill the missing time, we work nights, on weekends and national holidays.
 
 ## How to help others
  * Enable guest passwordless access on your Wi-Fi router (perhaps with speed limitation)
