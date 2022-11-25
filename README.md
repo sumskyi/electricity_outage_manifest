@@ -1,6 +1,7 @@
 # Electricity Outage Communications and Work Manifest
 
 ![Electricity](https://images.livemint.com/img/2022/08/07/600x338/Electricity_1659887166816_1659887167017_1659887167017.JPG)
+
 As russia destroys our infrastructure and communications in order to be able to work and communicate with each other, we have to adapt our approach to this.
 ## Meetings
 1. As before, plan and create meetings (in Google Calendar, etc.), but only as an approximate time.
