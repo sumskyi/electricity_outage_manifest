@@ -14,6 +14,7 @@ As russia destroys our infrastructure and communications in order to be able to 
 3. If 40 hours cannot be reached (yet), to fill the missing time, we work on weekends and national holidays.
 
 Edition: 0.1 Draft version
+
 P.S. - this manifesto will be destroyed after the Victory of Ukraine.
 
 Vladyslav Sumskyi, November 25, 2022
