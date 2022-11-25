@@ -16,8 +16,11 @@ As russia destroys our infrastructure and communications in order to be able to 
 ## How to help others
  * Enable guest passwordless access on your Wi-Fi router (perhaps with speed limitation)
 
+<hr>
+
 Edition: 0.1 Draft version
 
 P.S. - this manifesto will be destroyed after the Victory of Ukraine.
 
+<hr>
 Vladyslav Sumskyi, November 25, 2022
