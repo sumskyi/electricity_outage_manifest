@@ -21,7 +21,7 @@ As russia destroys our infrastructure and communications in order to be able to 
 
 Edition: 0.1 Draft version
 
-P.S. - this manifesto will be destroyed after the Victory of Ukraine.
+P.S. - this manifest repo will be destroyed after the Victory of Ukraine.
 
 <hr>
 Vladyslav Sumskyi, November 25, 2022
