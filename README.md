@@ -23,5 +23,5 @@ Edition: 0.1 Draft version
 
 P.S. - this manifest repo will be destroyed after the Victory of Ukraine.
 
-<hr>
+## Licence WTFPL
 Vladyslav Sumskyi, November 25, 2022
